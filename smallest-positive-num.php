@@ -1,7 +1,7 @@
 <?php 
 // Find the smallest positive number missing from an unsorted array
 
-**
+/**
  * Write a function:
  * function solution($A);
  * that, given an array A of N integers, returns the smallest positive integer (greater than 0) that does not occur in
